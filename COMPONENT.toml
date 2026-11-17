@@ -3,7 +3,7 @@ name = "SigmaOS-fakeroot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fakeroot component"
+description = "SigmaOS SigmaOS-fakeroot component"
 upstream = []
 
 [contract]
